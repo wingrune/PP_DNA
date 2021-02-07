@@ -13,7 +13,7 @@ One can find the main script in /bin/main.py. One can change default parameters 
 The input files are in /bin/example. The script will run over these files. If you don't want to spend a lot of time, 
 please, delete SubSeq_Res(>320).txt from this folder. 
 
-To run script with default parameters please run (your working directory should be the main project directory (PP_DNA_LIM_ZEMSKOVA))
+To run script with default parameters please run (your working directory should be the main project directory)
 
 python -m bin.main
 
